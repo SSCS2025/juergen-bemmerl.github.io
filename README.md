@@ -1,2 +1,2 @@
 # juergen-bemmerl.github.io
-Software Supply Chain Security
+Chain of Trust – Software Supply Chain Security
